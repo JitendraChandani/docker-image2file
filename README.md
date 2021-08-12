@@ -4,4 +4,4 @@ This script help understanding parts of the dockerfile like MAINTAINER, ENV, EXP
 
 # Usage
 
-./dockerimage2file <image-id>
+./dockerimage2file.sh <image-id>
